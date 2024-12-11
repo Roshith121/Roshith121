@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roshiht Raj</h1>
 <h3 align="center">A passionate full stack java developer from India</h3>
-<img src="https://media1.tenor.com/m/C9qukZqPPS4AAAAC/coding-typing.gif" 
-     alt="Pinterest Image" 
-     align="right" 
-     width="300" 
-     style="border-radius: 50%; overflow: hidden;">
 
 - 🌱 I’m currently learning **Angular, spring boot, kafka**
 
@@ -13,6 +8,10 @@
 - 💬 Ask me about **java, MySql**
 
 - 📫 How to reach me **roshith1213raj@gmail.com**
+
+- 📄 Know about my experiences [https://github.com/Roshith121/Roshith121/blob/main/Roshith%20resume.pdf](https://github.com/Roshith121/Roshith121/blob/main/Roshith%20resume.pdf)
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
