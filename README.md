@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Roshiht Raj</h1>
+<h1 align="center">Hi 👋, I'm Roshith Raj</h1>
 <h3 align="center">A passionate full stack java developer from India</h3>
 
 - 🌱 I’m currently learning **Angular, spring boot, kafka**
