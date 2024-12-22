@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Roshith Raj</h1>
 <h3 align="center">A passionate full stack java developer from India</h3>
+<img src="https://media1.tenor.com/m/C9qukZqPPS4AAAAC/coding-typing.gif" 
+     alt="Pinterest Image" 
+     align="right" 
+     width="300" 
+     style="border-radius: 50%; overflow: hidden;">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Roshith121&label=Profile%20views&color=0e75b6&style=flat" alt="anushka-u" /> </p>
 
 - 🌱 I’m currently learning **Angular, spring boot, kafka**
 
