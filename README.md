@@ -28,5 +28,27 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Roshith121&show_icons=true&locale=en&layout=compact" alt="Roshith121" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Roshith121&show_icons=true&locale=en" alt="Roshith121" /></p>
+</div> 
+
+
+###
+
+<br clear="both">
+<h1 align="center">Connect me</h1>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="mailto:roshith1213raj@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/roshith-raj/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.me/6267112529" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+</div> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Roshith121&" alt="Roshith121" /></p>
