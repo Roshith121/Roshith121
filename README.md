@@ -5,9 +5,9 @@
      align="right" 
      width="300" 
      style="border-radius: 50%; overflow: hidden;">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Roshith121&label=Profile%20views&color=0e75b6&style=flat" alt="anushka-u" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Roshith121&label=Profile%20views&color=0e75b6&style=flat" alt="roshith121" /> </p>
 
-- 🌱 I’m currently learning **Angular, spring boot, kafka**
+- 🌱 I’m currently learning **React, spring boot, kafka**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Roshith121](https://github.com/Roshith121)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **roshith1213raj@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Roshith121/Roshith121/blob/main/Roshith%20resume.pdf](https://github.com/Roshith121/Roshith121/blob/main/Roshith%20resume.pdf)
+- 📄 Know about my experiences [https://github.com/Roshith121/Roshith121/blob/main/Roshith_Raj_4YOE.pdf](https://github.com/Roshith121/Roshith121/blob/main/Roshith_Raj_4YOE.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
